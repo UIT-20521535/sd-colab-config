@@ -6,3 +6,4 @@ https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
 https://github.com/Coyote-A/ultimate-upscale-for-automatic1111
 https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
 https://github.com/richrobber2/canvas-zoom
+https://github.com/huchenlei/sd-webui-openpose-editor
